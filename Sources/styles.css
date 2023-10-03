@@ -1,0 +1,38 @@
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-initiation{
+    background-image: url(../Images/image_initiation_Henning_Westerkamp.png);
+  }
+
+.bg-club{
+    background-image: url(../Images/image_club_lauramba.png);
+  }
+
+.bg-entrainement{
+  background-image: url(../Images/image_entrainement_lisa_runnels.png);
+}
+
+.bg-matchMorues{
+  background-image: url(../Images/image_matchMorues_Brendy_Pradana.png);
+}
+
+.bg-matchFerraille{
+  background-image: url(../Images/image_matchFerraille_lauramba.png);
+}
+
+.bg-formationArbitre{
+  background-image: url(../Images/image_formationArbitre_lauramba.png);
+}
+
+.bg-matchDouble{
+  background-image: url(../Images/image_matchDouble_Rudy_and_Peter_Skitterians.png);
+}
+
+
+
+
+
