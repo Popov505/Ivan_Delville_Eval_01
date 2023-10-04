@@ -1,38 +1,40 @@
 .bg-image {
     background-size: cover;
-    background-position: center;
+    /*background-position: center;*/
     background-repeat: no-repeat;
 }
 
 .bg-initiation{
-    background-image: url(../Images/image_initiation_Henning_Westerkamp.png);
+    background-image: url(../Images/image_initiation_Henning_Westerkamp.webp);
   }
 
 .bg-club{
-    background-image: url(../Images/image_club_lauramba.png);
+    background-image: url(../Images/image_club_lauramba.webp);
   }
 
 .bg-entrainement{
-  background-image: url(../Images/image_entrainement_lisa_runnels.png);
+  background-image: url(../Images/image_entrainement_lisa_runnels.webp);
 }
 
 .bg-matchMorues{
-  background-image: url(../Images/image_matchMorues_Brendy_Pradana.png);
+  background-image: url(../Images/image_matchMorues_Brendy_Pradana.webp);
 }
 
 .bg-matchFerraille{
-  background-image: url(../Images/image_matchFerraille_lauramba.png);
+  background-image: url(../Images/image_matchFerraille_lauramba.webp);
 }
 
 .bg-formationArbitre{
-  background-image: url(../Images/image_formationArbitre_lauramba.png);
+  background-image: url(../Images/image_formationArbitre_lauramba.webp);
 }
 
 .bg-matchDouble{
-  background-image: url(../Images/image_matchDouble_Rudy_and_Peter_Skitterians.png);
+  background-image: url(../Images/image_matchDouble_Rudy_and_Peter_Skitterians.webp);
 }
 
-
-
-
-
+@media (max-width: 767px) {
+  .carouselImage{
+    height: 250px;
+    background-position-y: bottom;
+  }
+}
