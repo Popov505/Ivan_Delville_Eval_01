@@ -35,6 +35,5 @@
 @media (max-width: 767px) {
   .carouselImage{
     height: 250px;
-    background-position-y: bottom;
   }
 }
